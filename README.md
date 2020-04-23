@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdubnic2/2019-htrc-fall-workshops/master)
+`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdubnic2/2019-htrc-fall-workshops/master)`
 
 ## HTRC Extracted Features example use cases
 Code and accompanying documentation for Extracted Features examples used on HTRC wiki. This repo includes:
